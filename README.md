@@ -61,7 +61,7 @@ above.
 ### Steps
 - Start a fresh R session and set the working directory to this one
 - Run the main script: `source('run_all.R')`
-- All outputs (will be generated in a new `output` directory, whose content
+- All outputs will be generated in a new `output` directory, whose content
   should be identical to the `output_archive` directory provided with the
   repository.
 - In total, the scripts may take a few hours to run.
