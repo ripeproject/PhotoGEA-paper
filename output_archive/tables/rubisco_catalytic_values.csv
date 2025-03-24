@@ -1,0 +1,6 @@
+"temperature","Kc_aq","Ko_aq","specificity_aq","oxygen","species","Gamma_star","H_CO2","H_O2","specificity_gas_basis","Kc","Ko","arrhenius_index"
+"NA","NA","NA","NA","NA","NA","calculate_gamma_star","calculate_gamma_star","calculate_gamma_star","calculate_gamma_star","NA","NA","NA"
+"degrees C","microM","microM","M / M","percent","","micromol mol^(-1)","micromol kg^(-1) Pa^(-1)","micromol kg^(-1) Pa^(-1)","Pa / Pa","micromol mol^(-1)","mmol mol^(-1)","mol kJ^(-1)"
+"20","7.5","518","116.6","21","Glycine max","31.4706009128301","0.392664033586503","0.0137225685975215","3336.44725408447","187.939767731318","371.426507931232","0.410273969982326"
+"25","13.2","660","99.6","21","Glycine max","38.7267218849089","0.342712355419902","0.0125895595910182","2711.30617024718","378.985605680184","515.83635096162","0.403393641792114"
+"30","19.6","549","90.6","21","Glycine max","44.7307576564272","0.301867904538214","0.0116509702423143","2347.37807945252","638.877623278746","463.6484340548","0.396740274782513"

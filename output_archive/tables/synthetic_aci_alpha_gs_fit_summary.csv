@@ -1,0 +1,29 @@
+"parameter","curve_type","n_curves","package","n_estimates","error_percent","n_good_CI","good_CI_percent","RMSE"
+"J","true_n_Aj_limiting > 0",133,"PhotoGEA",132,0.75187969924812,58,43.609022556391,2.37043712744051
+"J","true_n_Aj_limiting > 0",133,"plantecophys",132,0.75187969924812,0,0,11.6059730443071
+"J","true_n_Aj_limiting > 0",133,"photosynthesis",133,0,6,4.51127819548872,11.9698513457791
+"J","true_n_Aj_limiting > 0",133,"msuRACiFit",133,0,0,0,7.7207130630649
+"J","true_n_Aj_limiting == 0",67,"PhotoGEA",0,0,63,94.0298507462687,NA
+"J","true_n_Aj_limiting == 0",67,"plantecophys",52,77.6119402985075,0,0,NA
+"J","true_n_Aj_limiting == 0",67,"photosynthesis",67,100,0,0,NA
+"J","true_n_Aj_limiting == 0",67,"msuRACiFit",67,100,0,0,NA
+"Tp","true_n_Ap_limiting > 0",67,"PhotoGEA",67,0,29,43.2835820895522,0.370969375161791
+"Tp","true_n_Ap_limiting > 0",67,"plantecophys",67,0,0,0,0.511440145545412
+"Tp","true_n_Ap_limiting > 0",67,"photosynthesis",53,20.8955223880597,20,29.8507462686567,0.415269576131088
+"Tp","true_n_Ap_limiting > 0",67,"msuRACiFit",67,0,0,0,0.729109742113363
+"Tp","true_n_Ap_limiting == 0",133,"PhotoGEA",0,0,132,99.2481203007519,NA
+"Tp","true_n_Ap_limiting == 0",133,"plantecophys",0,0,0,0,NA
+"Tp","true_n_Ap_limiting == 0",133,"photosynthesis",21,15.7894736842105,0,0,NA
+"Tp","true_n_Ap_limiting == 0",133,"msuRACiFit",133,100,0,0,NA
+"Vcmax","true_n_Ac_limiting > 0",156,"PhotoGEA",148,5.12820512820513,96,61.5384615384615,0.864586258457382
+"Vcmax","true_n_Ac_limiting > 0",156,"plantecophys",156,0,82,52.5641025641026,7.09267496569442
+"Vcmax","true_n_Ac_limiting > 0",156,"photosynthesis",156,0,76,48.7179487179487,7.50199055760326
+"Vcmax","true_n_Ac_limiting > 0",156,"msuRACiFit",156,0,0,0,1.49567632834372
+"Vcmax","true_n_Ac_limiting == 0",44,"PhotoGEA",0,0,43,97.7272727272727,NA
+"Vcmax","true_n_Ac_limiting == 0",44,"plantecophys",44,100,0,0,NA
+"Vcmax","true_n_Ac_limiting == 0",44,"photosynthesis",44,100,0,0,NA
+"Vcmax","true_n_Ac_limiting == 0",44,"msuRACiFit",44,100,0,0,NA
+"RL","all",200,"PhotoGEA",200,0,17,8.5,0.855865777262947
+"RL","all",200,"plantecophys",200,0,20,10,0.932446604822774
+"RL","all",200,"photosynthesis",200,0,20,10,0.947014689208435
+"RL","all",200,"msuRACiFit",200,0,0,0,1.01117920355011
